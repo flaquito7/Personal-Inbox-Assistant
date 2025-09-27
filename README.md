@@ -6,7 +6,7 @@ A Personal Inbox Assistant that reviews emails in real-time, and sends a telegra
 
 - Prioritesed emails can be customised to the user's commands.
 
-## How to run:
+## How to run
 
 ### Create a virtual environment
 python -m venv .venv
@@ -17,5 +17,5 @@ python -m venv .venv
 ### Linux / macOS:
 source .venv/bin/activate
 
-### Install dependencies
+### Install dependencies:
 pip install -r requirements.txt
